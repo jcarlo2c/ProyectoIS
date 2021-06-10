@@ -12,8 +12,8 @@ window.addEventListener("scroll", function(){
     ubicacionPrincipal= desplazamientoActual; //200
 
 })
-// Menu
 
+// Menu
 let enlacesHeader = document.querySelectorAll(".enlaces-header")[0];
 let semaforo = true;
 
