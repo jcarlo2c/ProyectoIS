@@ -145,7 +145,7 @@ nav {
     margin: 28px 0 0 0;
     width: 130px;
     display: inline-block;
-    background: #1FDE82;
+    background: #de2c1f;
     text-align: center;
     color: #fff;
     padding: 12px 0;
@@ -154,7 +154,7 @@ nav {
     text-transform: uppercase;
     font-size: 14px;
     border-radius: 5px;
-    box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
+    box-shadow: 0 8px 32px rgba(222, 155, 31, 0.46);
 }
 
 .titulo {
@@ -184,20 +184,20 @@ nav {
 }
 
 .articulo:hover {
-    box-shadow: 0 4px 10px rgba(17, 29, 48, .26);
+    box-shadow: 0 4px 10px rgba(25, 113, 255, 0.26);
 }
 
 .articulo>i {
     font-size: 30px;
     color: #fff;
-    background: #1FDE82;
+    background: #de2c1f;
     display: inline-block;
     width: 70px;
     height: 70px;
     text-align: center;
     padding-top: 20px;
     border-radius: 50%;
-    box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
+    box-shadow: 0 8px 32px rgba(222, 155, 31, 0.46);
 }
 
 .articulo>h3 {
@@ -219,7 +219,7 @@ nav {
 }
 
 .articulo>a:hover {
-    color: #1FDE82;
+    color: #de2c1f;
     transition: color .5s;
 }
 
@@ -252,7 +252,7 @@ nav {
     margin: 28px 0 0 0;
     width: 130px;
     display: inline-block;
-    background: #1FDE82;
+    background: #de2c1f;
     text-align: center;
     color: #fff;
     padding: 12px 0;
@@ -261,13 +261,13 @@ nav {
     text-transform: uppercase;
     font-size: 14px;
     border-radius: 5px;
-    box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
+    box-shadow: 0 8px 32px rgba(222, 155, 31, 0.46);
 }
 
 /* Results */
 
 .results {
-    background: #2570ff;
+    background: #29944d;
     padding-top: 30px;
 }
 
@@ -356,7 +356,7 @@ nav {
 }
 
 .box-skills i {
-    color: #1FDE82;
+    color: #de2c1f;
     font-size: 20px;
 }
 
@@ -395,7 +395,7 @@ footer {
 
 
 .partFooter a:hover {
-    color: #1FDE82;
+    color: #de2c1f;
 }
 
 .partFooter img {
@@ -420,8 +420,8 @@ footer {
 
 .social-media i:hover {
     color: #fff;
-    background-color: #1FDE82;
-    border-color: #1FDE82;
+    background-color: #de2c1f;
+    border-color: #de2c1f;
 }
 
 /* Breakpoints responsive */
